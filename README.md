@@ -1,16 +1,11 @@
 Some website templates. Made by TeamClbesh.
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# How to use
 
-- Bulleted
-- List
+1. Go into the file
+2. Edit the HTML File
+3. Put it on your website
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+`<html>`
