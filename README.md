@@ -1,5 +1,4 @@
 Some website templates. Made by TeamClbesh.
-Syntax highlighted code block
 
 # How to use
 
@@ -8,4 +7,3 @@ Syntax highlighted code block
 3. Put it on your website
 
 
->> Hello!
