@@ -7,5 +7,6 @@ Some website templates. Made by TeamClbesh.
 3. Put it on your website
 
 
-# [Demo Link](https://baseballe2k.github.io/website-templates/cool/)
+# [Cool Demo Link](https://baseballe2k.github.io/website-templates/cool/)
+# [Business Demo Link](https://baseballe2k.github.io/website-templates/business/)
 
