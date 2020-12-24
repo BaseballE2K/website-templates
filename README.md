@@ -8,5 +8,5 @@ Some website templates. Made by TeamClbesh.
 
 
 # [Cool Demo Link](https://baseballe2k.github.io/website-templates/cool/)
-# [Business Demo Link](https://baseballe2k.github.io/website-templates/business/)
+# [Company Demo Link](https://baseballe2k.github.io/website-templates/company/)
 
